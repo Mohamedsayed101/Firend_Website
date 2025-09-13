@@ -197,15 +197,15 @@ Mohamed Fathy/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohamedsayed101/Html_and_css_tempate-1
+   git clone https://github.com/Mohamedsayed101/Firend_Website
    ```
 
 ---
 
 ## ✨ Deployment
 You can deploy the template easily using:
-- [GitHub Pages](https://mohamedsayed101.github.io/Html_and_css_tempate-1/)  
-- [Netlify](https://leonprojec.netlify.app/)  
+- [GitHub Pages](https://mohamedsayed101.github.io/Firend_Website/)  
+- [Netlify](https://freindwebsite.netlify.app/)  
 
 ---
 
